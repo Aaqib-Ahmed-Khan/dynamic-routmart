@@ -15,7 +15,7 @@ export default function Header() {
             About
           </a>
           {/* Change 'News' to 'Products' and set link */}
-          <a href="/products" className="mr-5 hover:text-gray-900" aria-label="Products">
+          <a href="/Products" className="mr-5 hover:text-gray-900" aria-label="Products">
             Products
           </a>
           <a href="#contact" className="hover:text-gray-900" aria-label="Contact Us">
